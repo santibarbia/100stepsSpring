@@ -1,0 +1,16 @@
+<html>
+<head>
+
+<title>Pagina PRUEBA</title>
+
+</head>
+<body>
+<form>
+	Name : <input type="text" name="name"/> 
+	<input type="submit" />
+	
+	
+</form>
+My first Jsp!!!! Bienvenido ${name}
+</body>
+</html>

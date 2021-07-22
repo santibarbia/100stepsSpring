@@ -1,0 +1,5 @@
+package com.tipre.springboot.webapplication.model;
+
+public class Todo {
+
+}

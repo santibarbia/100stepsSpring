@@ -1,0 +1,5 @@
+package com.tipre.springboot.webapplication.controller;
+
+public class LoginController {
+
+}
